@@ -1,4 +1,4 @@
-# balancingRobot
+# Self Balancing Robot
 A self balancing robot, utilizing a Teensy LC.
 
 This robot realized as a project in my mechatronics class. The design and code are heavily guided by the lecturers of my university.
