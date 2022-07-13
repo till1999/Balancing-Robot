@@ -5,6 +5,8 @@ This robot realized as a project in my mechatronics class. The design and code a
 
 This robot balances itself by reading it's pitch angle from an IMU (MPU6050) and moving the motors accordingly. To achieve this a PID-Control algorithm is used. For further stability rotary encoders meassure the rotation of the wheels. A second PD-Control loop ensures the robot stays in it's lateral position. For easy debugging while the robot is moving a bluetooth module is used, which transfers data wirelessly to the serial monitor of the Arduino IDE.
 
+The file names and comments in the code are all in german, but I'm sure that's not an issue that can't be fixed by Google translate ;-)
+
 Parts list:
   
   mainboard (designed by the lecturers of my mechatronics class)
